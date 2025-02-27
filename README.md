@@ -35,3 +35,12 @@ Suck my dick 🤓💕👍😈🐔🎁🐀🤡😱🎶🎰🎰🎰🎰
 ---
 
 Made with ❤️ by **H-zz-H**
+
+---
+
+# Viewbot.py:
+![Viewbot](pic.png)
+
+# Github Views:
+![Views](views.png)
+
