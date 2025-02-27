@@ -15,12 +15,12 @@ This Python script is designed to artificially increase the number of profile vi
 - This bot is not guaranteed to work indefinitely or across all use cases—GitHub's policies and detection mechanisms could change.
 
 ## How to Use
-   
+1.
    ```bash
    python viewbot.py
    ```
    
-4. The script will run continuously, sending requests to the target GitHub page to increment the view count. Check the terminal output to see the progress.
+2. The script will run continuously, sending requests to the target GitHub page to increment the view count. Check the terminal output to see the progress.
 
 ## Notes
 
