@@ -44,3 +44,5 @@ Made with ❤️ by **H-zz-H**
 # Github Views:
 ![Views](views.png)
 
+# After 2 Days:
+![Views1](2days.png)
